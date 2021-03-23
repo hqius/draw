@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T02:34:39.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Zf20zmWmpwjxMyARHezz" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T02:35:10.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="H3RsXVqQvbrkCktKFzS_" version="14.5.0" type="github">
   <diagram id="M3j8pxnVSpy2cYYRyJaD" name="第 1 页">
     <mxGraphModel dx="976" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="-FUthf-MKhOJVrU56NYP-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="195" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-FUthf-MKhOJVrU56NYP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-FUthf-MKhOJVrU56NYP-20" target="-FUthf-MKhOJVrU56NYP-2">
+        <mxCell id="-FUthf-MKhOJVrU56NYP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-FUthf-MKhOJVrU56NYP-1" target="-FUthf-MKhOJVrU56NYP-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-FUthf-MKhOJVrU56NYP-1" value="采集程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -66,14 +66,8 @@
         <mxCell id="-FUthf-MKhOJVrU56NYP-14" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-FUthf-MKhOJVrU56NYP-20" value="收集消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-FUthf-MKhOJVrU56NYP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-FUthf-MKhOJVrU56NYP-1" target="-FUthf-MKhOJVrU56NYP-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="330" as="sourcePoint" />
-            <mxPoint x="260" y="330" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-FUthf-MKhOJVrU56NYP-22" value="收集信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
