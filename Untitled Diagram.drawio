@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T09:11:21.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="bxRqMr1OtfXCLWCzoaQc" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:11:51.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EUNlShOJT3RVYECEKGRg" version="14.5.0" type="github">
   <diagram id="M3j8pxnVSpy2cYYRyJaD" name="第 1 页">
     <mxGraphModel dx="976" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="Ku6SttlqapJtqhPOGaz2-12" value="更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ku6SttlqapJtqhPOGaz2-15" value="发送报警信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
