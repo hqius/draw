@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T09:11:51.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EUNlShOJT3RVYECEKGRg" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:11:58.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="viVeip0GLE2ViKxsytp9" version="14.5.0" type="github">
   <diagram id="M3j8pxnVSpy2cYYRyJaD" name="第 1 页">
     <mxGraphModel dx="976" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,12 +53,6 @@
         </mxCell>
         <mxCell id="-FUthf-MKhOJVrU56NYP-22" value="收集信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="330" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-lDNhWD37kOlUaLaTFIB-9" value="更新记录表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="575" y="330" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Ku6SttlqapJtqhPOGaz2-2" value="更新当前记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="390" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ku6SttlqapJtqhPOGaz2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Ku6SttlqapJtqhPOGaz2-6" target="-FUthf-MKhOJVrU56NYP-4">
           <mxGeometry relative="1" as="geometry" />
