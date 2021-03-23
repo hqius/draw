@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T02:31:44.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CwYz6VwMZOIwO8L5o8fF" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T02:31:52.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="P7TxJb6XRO9kGh-ns-p_" version="14.5.0" type="github">
   <diagram id="M3j8pxnVSpy2cYYRyJaD" name="第 1 页">
     <mxGraphModel dx="976" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,6 +38,9 @@
               <mxPoint x="425" y="260" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-FUthf-MKhOJVrU56NYP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-FUthf-MKhOJVrU56NYP-7" target="-FUthf-MKhOJVrU56NYP-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-FUthf-MKhOJVrU56NYP-7" value="报警程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="70" height="30" as="geometry" />
