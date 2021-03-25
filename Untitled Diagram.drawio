@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T09:24:40.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ADO26d7Ro9p0fBZRhc84" version="14.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T09:26:06.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="RvXEWXiPrFnn_dMiIV1Q" version="14.5.0" type="github">
   <diagram id="M3j8pxnVSpy2cYYRyJaD" name="第 1 页">
     <mxGraphModel dx="976" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="Kl6BwcF5UKSUdVYUfAfF-21" value="数据状态更新" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="325" y="780" width="90.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kl6BwcF5UKSUdVYUfAfF-22" value="中间建服务和业务服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="68.75" y="675" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
