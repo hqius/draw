@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T06:34:56.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="o58e0yoQCwxn9GNqkeMq" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T06:35:03.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="blOQ8C6cX6LQZXAL0Xll" version="14.5.1" type="github">
   <diagram id="M3j8pxnVSpy2cYYRyJaD" name="第 1 页">
     <mxGraphModel dx="976" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="aEFTFNg7kIHRCmJKgCSD-4" value="&lt;span&gt;数据层&lt;/span&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="45" y="860" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aEFTFNg7kIHRCmJKgCSD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aEFTFNg7kIHRCmJKgCSD-1" target="aEFTFNg7kIHRCmJKgCSD-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
