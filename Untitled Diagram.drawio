@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T07:06:39.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="W0A1Teaw8-qYqWd_qkw1" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T08:00:24.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="skMmTFvbhJeTuCKAidIT" version="14.5.1" type="github">
   <diagram id="M3j8pxnVSpy2cYYRyJaD" name="第 1 页">
     <mxGraphModel dx="976" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="179.99" y="490" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Kl6BwcF5UKSUdVYUfAfF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="179.99000000000004" y="740" width="300" height="70" as="geometry" />
+          <mxGeometry x="184.99000000000004" y="730" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Kl6BwcF5UKSUdVYUfAfF-2" value="&lt;b&gt;MySQL&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="286.86" y="752.5" width="81.25" height="45" as="geometry" />
+          <mxGeometry x="291.86" y="742.5" width="81.25" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Kl6BwcF5UKSUdVYUfAfF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.141;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=none;endArrow=none;endFill=0;" parent="1" source="Kl6BwcF5UKSUdVYUfAfF-5" target="Kl6BwcF5UKSUdVYUfAfF-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -19,8 +19,8 @@
         <mxCell id="Kl6BwcF5UKSUdVYUfAfF-5" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="174.99" y="650" width="300" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Kl6BwcF5UKSUdVYUfAfF-9" value="Springboot&lt;br&gt;更新历史表，觉察变动信息并转发" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="184.99" y="661.25" width="140" height="47.5" as="geometry" />
+        <mxCell id="Kl6BwcF5UKSUdVYUfAfF-9" value="Springboot&lt;br&gt;数据监控&lt;br&gt;（更新历史表，觉察变动信息，按需求转发）" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="177.48000000000002" y="655" width="150.01" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kl6BwcF5UKSUdVYUfAfF-11" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="177.48000000000002" y="580" width="295.01" height="50" as="geometry" />
@@ -44,13 +44,10 @@
           <mxGeometry x="69.99" y="650" width="105" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aEFTFNg7kIHRCmJKgCSD-4" value="&lt;span&gt;数据层&lt;/span&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="69.99" y="740" width="105" height="70" as="geometry" />
+          <mxGeometry x="74.99" y="730" width="105" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aEFTFNg7kIHRCmJKgCSD-12" value="Springboot&lt;br&gt;获取当前最新数据，并更新数据库" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="329.99" y="661.25" width="140" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="aEFTFNg7kIHRCmJKgCSD-16" value="Mybatis-plus&lt;br&gt;MySQL数据库中间件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="540" y="720" width="130" height="40" as="geometry" />
+        <mxCell id="aEFTFNg7kIHRCmJKgCSD-12" value="Springboot&lt;br&gt;数据更新&lt;br&gt;(获取当前最新数据，并更新数据库)" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="332.49" y="655" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
