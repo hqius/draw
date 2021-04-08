@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T02:38:13.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="SAK2jNSVY2PnB84jb4FT" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T02:43:47.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="AAHE689QInUIp0dWSffQ" version="14.5.8" type="github">
   <diagram id="oA8IyKsF3Yx61ZeQC1-E" name="第 1 页">
     <mxGraphModel dx="1376" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
           <mxGeometry x="340" y="-180" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-59" value="" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-150" width="360" height="470" as="geometry" />
+          <mxGeometry x="340" y="-150" width="580" height="850" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-60" target="oK837pcb2hJOdp0-e3fJ-61">
           <mxGeometry relative="1" as="geometry" />
@@ -156,8 +156,35 @@
         <mxCell id="oK837pcb2hJOdp0-e3fJ-63" value="选择直播行右边&lt;br&gt;末尾处的设置" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470.63" y="50" width="98.75" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-65" target="oK837pcb2hJOdp0-e3fJ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-65" target="oK837pcb2hJOdp0-e3fJ-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-65" value="选择基本设置" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470.63" y="115" width="98.75" height="40" as="geometry" />
+          <mxGeometry x="470.63" y="115" width="99.37" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-67" target="oK837pcb2hJOdp0-e3fJ-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-67" value="选择基本信息" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="100.63" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-69" target="oK837pcb2hJOdp0-e3fJ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-69" value="输入直播名称&lt;br&gt;选择直播时间" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-71" target="oK837pcb2hJOdp0-e3fJ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-71" value="保存" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="369.37" y="260" width="100.63" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-74" value="选择“角色设置”，默&lt;br&gt;认获取该直播间讲师直&lt;br&gt;播管理员，助教的信息" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
