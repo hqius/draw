@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T07:00:20.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="6xnGTsfVb0vj11k0f8Wx" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T07:09:46.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Hb309rz1s25e3rBNdC2r" version="14.5.8" type="github">
   <diagram id="oA8IyKsF3Yx61ZeQC1-E" name="第 1 页">
     <mxGraphModel dx="1588" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -650,7 +650,7 @@
         <mxCell id="oK837pcb2hJOdp0-e3fJ-458" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-464" target="oK837pcb2hJOdp0-e3fJ-466">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oK837pcb2hJOdp0-e3fJ-463" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-464">
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-463" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-464" target="oK837pcb2hJOdp0-e3fJ-483">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1443.6" y="960" as="targetPoint" />
           </mxGeometry>
@@ -675,6 +675,12 @@
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-481" value="播放器设置" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="850" y="620" width="690" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-484" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-483" target="oK837pcb2hJOdp0-e3fJ-472">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-483" value="设置“Logo位置”" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="960" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
