@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T02:47:01.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="-B4WLfkju8iq_Tz_4-LK" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T02:49:07.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="apQnHWiz313AQi-mphSi" version="14.5.8" type="github">
   <diagram id="oA8IyKsF3Yx61ZeQC1-E" name="第 1 页">
     <mxGraphModel dx="1376" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,6 +162,9 @@
         <mxCell id="oK837pcb2hJOdp0-e3fJ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-65" target="oK837pcb2hJOdp0-e3fJ-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-65" target="oK837pcb2hJOdp0-e3fJ-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-65" value="选择基本设置" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470.63" y="115" width="99.37" height="25" as="geometry" />
         </mxCell>
@@ -201,8 +204,20 @@
         <mxCell id="oK837pcb2hJOdp0-e3fJ-80" value="输入&quot;姓名&quot;或&quot;工作证&lt;br&gt;号&quot;或&quot;学号&quot;进行搜索&lt;br&gt;然后选择添加" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="515" y="300" width="135" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-82" target="oK837pcb2hJOdp0-e3fJ-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="584" y="410" />
+              <mxPoint x="670" y="410" />
+              <mxPoint x="670" y="128" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-82" value="选择保存信息" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="517.5" y="370" width="132.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-85" value="选择“学生观看准入”，并&lt;br&gt;获取相关联的信息" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="180" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
