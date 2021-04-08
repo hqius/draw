@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T02:36:33.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="AplY_tqsXYmW4wpbHGTc" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T02:38:13.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="SAK2jNSVY2PnB84jb4FT" version="14.5.8" type="github">
   <diagram id="oA8IyKsF3Yx61ZeQC1-E" name="第 1 页">
     <mxGraphModel dx="1376" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,8 +150,14 @@
         <mxCell id="oK837pcb2hJOdp0-e3fJ-61" value="在页面的上边栏&lt;br&gt;选择“我的直播”&lt;br&gt;，同时获取相关联的直播信息" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="475" y="-35" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-63" target="oK837pcb2hJOdp0-e3fJ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-63" value="选择直播行右边&lt;br&gt;末尾处的设置" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470.63" y="50" width="98.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-65" value="选择基本设置" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470.63" y="115" width="98.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
