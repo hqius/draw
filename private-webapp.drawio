@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T02:58:44.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="J6oGGtYXejo6Vslgm1A1" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T03:01:49.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="qggu7sHLLDmD3hnC6dby" version="14.5.8" type="github">
   <diagram id="oA8IyKsF3Yx61ZeQC1-E" name="第 1 页">
     <mxGraphModel dx="1376" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,10 +133,10 @@
           <mxGeometry y="-70" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-58" value="直播间设置(教师或者直播管理员)" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-180" width="360" height="30" as="geometry" />
+          <mxGeometry x="340" y="-180" width="810" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-59" value="" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-150" width="810" height="850" as="geometry" />
+          <mxGeometry x="340" y="-150" width="810" height="740" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-60" target="oK837pcb2hJOdp0-e3fJ-61">
           <mxGeometry relative="1" as="geometry" />
@@ -249,14 +249,41 @@
         <mxCell id="oK837pcb2hJOdp0-e3fJ-92" value="选择学生" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="671.88" y="380" width="82.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-94" target="oK837pcb2hJOdp0-e3fJ-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-94" value="输入“学号”或“姓名进行&lt;br&gt;搜索”，选择添加" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="440" width="126.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-97" target="oK837pcb2hJOdp0-e3fJ-103">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-97" value="选择“一键清空”&lt;br&gt;删除所有学生&lt;br&gt;(含二次确认)" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="796.25" y="380" width="93.75" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-100" target="oK837pcb2hJOdp0-e3fJ-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="967" y="450" />
+              <mxPoint x="1020" y="450" />
+              <mxPoint x="1020" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-100" value="输入“学号”和“姓&lt;br&gt;名”搜索，获取对&lt;br&gt;应信息" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="920" y="380" width="93.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-103" target="oK837pcb2hJOdp0-e3fJ-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="843" y="570" />
+              <mxPoint x="1050" y="570" />
+              <mxPoint x="1050" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-103" value="保存" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="792.81" y="530" width="100.63" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
