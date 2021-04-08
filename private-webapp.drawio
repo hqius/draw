@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T06:55:58.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="CYpjsFpIwuPqba03_DCC" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T06:56:11.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Bk5-UE8mVeaXfaD7yjzo" version="14.5.8" type="github">
   <diagram id="oA8IyKsF3Yx61ZeQC1-E" name="第 1 页">
     <mxGraphModel dx="1588" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -625,6 +625,11 @@
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-444" value="&lt;font face=&quot;helvetica&quot;&gt;设置”页面布局“&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="628.0999999999999" y="950" width="87.2" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-447">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1060" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-447" value="&lt;font face=&quot;helvetica&quot;&gt;输入”直播介绍“&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="729.9999999999999" y="950" width="87.2" height="20" as="geometry" />
