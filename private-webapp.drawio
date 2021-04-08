@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T06:55:00.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="JnGBFbDiGR4lkvSd2HXk" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T06:55:12.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="G4Vr5AjRZPHEKUmxUqvK" version="14.5.8" type="github">
   <diagram id="oA8IyKsF3Yx61ZeQC1-E" name="第 1 页">
     <mxGraphModel dx="1588" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -570,6 +570,9 @@
         <mxCell id="oK837pcb2hJOdp0-e3fJ-442" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-428" target="oK837pcb2hJOdp0-e3fJ-441">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-445" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-428" target="oK837pcb2hJOdp0-e3fJ-444">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-428" value="选择&quot;观看页设置&quot;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380.3199999999998" y="850" width="99.37" height="25" as="geometry" />
         </mxCell>
@@ -613,6 +616,9 @@
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-441" value="&lt;font face=&quot;helvetica&quot;&gt;设置”引导页“&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="532.8" y="950" width="87.2" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-446" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-444" target="oK837pcb2hJOdp0-e3fJ-436">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-444" value="&lt;font face=&quot;helvetica&quot;&gt;设置”页面布局“&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="628.0999999999999" y="950" width="87.2" height="20" as="geometry" />
