@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T06:52:49.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="5oBZuSnz-xH-_3FoWcFl" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T06:53:04.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="EAaTrBgkpb5XX6X3dj_m" version="14.5.8" type="github">
   <diagram id="oA8IyKsF3Yx61ZeQC1-E" name="第 1 页">
     <mxGraphModel dx="1588" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -574,7 +574,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-430" value="设置“直播图标”" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="950" width="90" height="20" as="geometry" />
+          <mxGeometry x="190" y="950" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-431" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-432">
           <mxGeometry relative="1" as="geometry">
@@ -582,13 +582,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-432" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;设置”直播封面&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;“&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="950" width="90.31" height="20" as="geometry" />
+          <mxGeometry x="290.01" y="950" width="90.31" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-433" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-434" target="oK837pcb2hJOdp0-e3fJ-436">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-434" value="&lt;font face=&quot;helvetica&quot;&gt;设置”PC观看页背景图“&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415.6" y="950" width="170" height="20" as="geometry" />
+          <mxGeometry x="384.69" y="950" width="134.4" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-435" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-436" target="oK837pcb2hJOdp0-e3fJ-437">
           <mxGeometry relative="1" as="geometry" />
