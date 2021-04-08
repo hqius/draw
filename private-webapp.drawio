@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T01:38:55.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="CTBypMk8sE98-bLESPGq" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T01:39:40.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="pM90IUaYBkE4ke8cANhA" version="14.5.8" type="github">
   <diagram id="oA8IyKsF3Yx61ZeQC1-E" name="第 1 页">
-    <mxGraphModel dx="1376" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wH8P1-acbnSa7T-rEP_i-134" value="" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="-150" width="360" height="440" as="geometry" />
+          <mxGeometry x="-380" y="-150" width="710" height="740" as="geometry" />
         </mxCell>
         <mxCell id="wH8P1-acbnSa7T-rEP_i-136" value="登录" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-380" y="-180" width="360" height="30" as="geometry" />
@@ -16,14 +16,23 @@
         <mxCell id="wH8P1-acbnSa7T-rEP_i-137" value="网页输入账号&lt;br&gt;和密码登入" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-260" y="-140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oK837pcb2hJOdp0-e3fJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wH8P1-acbnSa7T-rEP_i-139" target="oK837pcb2hJOdp0-e3fJ-6">
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oK837pcb2hJOdp0-e3fJ-8" target="oK837pcb2hJOdp0-e3fJ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wH8P1-acbnSa7T-rEP_i-139" value="检查用户信息&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-260" y="-80" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oK837pcb2hJOdp0-e3fJ-6" value="检查角色信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" width="90" height="70" as="geometry" />
+          <mxGeometry x="-260" y="10" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-8" value="Y" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="-20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oK837pcb2hJOdp0-e3fJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wH8P1-acbnSa7T-rEP_i-139" target="oK837pcb2hJOdp0-e3fJ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-215" y="-30" as="sourcePoint" />
+            <mxPoint x="-215" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
