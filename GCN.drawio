@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T04:35:22.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="0zQSOw9vG7H0z0VVu24T" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T05:07:03.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="mzoJdzxcEjasrlcXmkUU" version="14.6.6" type="github">
   <diagram id="8Nu_nQ7xDkJ1roxFt6cx" name="第 1 页">
-    <mxGraphModel dx="1376" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1548" dy="692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pFt1LgYTIRn2EsKzOze2-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="471" width="342" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="pFt1LgYTIRn2EsKzOze2-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-23" y="439.5" width="143" height="125" as="geometry" />
-        </mxCell>
         <mxCell id="x66tA1hOMsiu7k_iPFel-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="120" width="240" height="260" as="geometry" />
         </mxCell>
@@ -117,6 +111,63 @@
         </mxCell>
         <mxCell id="pFt1LgYTIRn2EsKzOze2-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="477.75" width="70" height="40.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="481.63" width="70" height="40.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-13" value="用户嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="604" y="436" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-14" value="商品嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="722" y="436" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-15" value="情感因素" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="840" y="436" width="72" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-17" value="用户嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="604" y="459.63" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-18" value="商品嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="722" y="459.63" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-19" value="情感因素" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="840" y="459.63" width="72" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-20" value="用户嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="604" y="482.63" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-21" value="商品嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="722" y="482.63" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-22" value="情感因素" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="840" y="482.63" width="72" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-23" value="用户嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="604" y="506.26" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-24" value="商品嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="722" y="506.26" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-25" value="情感因素" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="840" y="506.26" width="72" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-26" value="用户嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="604" y="528.5" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-27" value="商品嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="722" y="528.5" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-28" value="情感因素" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="840" y="528.5" width="72" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-29" value="用户嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="604" y="552.13" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-30" value="商品嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="722" y="552.13" width="118" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pFt1LgYTIRn2EsKzOze2-31" value="情感因素" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="840" y="552.13" width="72" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
