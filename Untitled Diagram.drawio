@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T12:43:34.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="mhAWYQ5SJHUAivsqm73Q" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T12:46:24.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="QXrHtTaa2s0TmcGar_yN" version="14.9.9" type="github">
   <diagram id="M3j8pxnVSpy2cYYRyJaD" name="第 1 页">
     <mxGraphModel dx="1355" dy="1921" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,16 +70,34 @@
         <mxCell id="iTrxDIxSOVpFifdG9iTk-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/go-128.png" parent="1" vertex="1">
           <mxGeometry x="450" y="-120" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="Tnx-q1CDUx183G_uHan9-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Tnx-q1CDUx183G_uHan9-1" value="Pod" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-167" y="-988" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Tnx-q1CDUx183G_uHan9-2" value="" style="triangle;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-1021" width="60" height="80" as="geometry" />
+        <mxCell id="Tnx-q1CDUx183G_uHan9-2" value="Container" style="triangle;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="92.49" y="-1109" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tnx-q1CDUx183G_uHan9-3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Tnx-q1CDUx183G_uHan9-1" target="Tnx-q1CDUx183G_uHan9-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="216" y="-838" as="sourcePoint" />
             <mxPoint x="266" y="-888" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tnx-q1CDUx183G_uHan9-4" value="&lt;span&gt;Container&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="92.49" y="-988" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tnx-q1CDUx183G_uHan9-5" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Tnx-q1CDUx183G_uHan9-1" target="Tnx-q1CDUx183G_uHan9-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-77" y="-938" as="sourcePoint" />
+            <mxPoint x="102.49000000000001" y="-1059" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tnx-q1CDUx183G_uHan9-6" value="&lt;span&gt;Container&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="92.49" y="-864" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tnx-q1CDUx183G_uHan9-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Tnx-q1CDUx183G_uHan9-1" target="Tnx-q1CDUx183G_uHan9-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-77" y="-938" as="sourcePoint" />
+            <mxPoint x="102.49000000000001" y="-938" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
